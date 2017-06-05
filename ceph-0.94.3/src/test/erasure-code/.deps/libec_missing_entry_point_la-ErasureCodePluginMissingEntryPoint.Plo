@@ -1,0 +1,7 @@
+test/erasure-code/libec_missing_entry_point_la-ErasureCodePluginMissingEntryPoint.lo: \
+ test/erasure-code/ErasureCodePluginMissingEntryPoint.cc \
+ /usr/include/stdc-predef.h ceph_ver.h
+
+/usr/include/stdc-predef.h:
+
+ceph_ver.h:

@@ -1,0 +1,7 @@
+ceph_ver.lo: ceph_ver.c /usr/include/stdc-predef.h acconfig.h ceph_ver.h
+
+/usr/include/stdc-predef.h:
+
+acconfig.h:
+
+ceph_ver.h:

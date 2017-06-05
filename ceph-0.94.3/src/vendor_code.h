@@ -1,0 +1,33 @@
+/* HASP vendor code for demo keys */
+
+unsigned char vendorCode[] =
+"RyR9SBasB3sFmyunPsxh9PzuZb2sCKdea"
+"YnBi7BNmiGxFGBnw6kRJEax6NpNyL4q6G"
+"A9E0EuBclD9stojOJf3tPXoo5wZyEeHEg"
+"93DL+ep9kRH+Iog+wEznHSXLDfzFWPh3p"
+"9NBt4Z/XRkKE40+tfVnzEQCpNWc+WKDiV"
+"8hYQywktzWKpeSXz1zV8892H9bt/FZQ2N"
+"Hf232efAjVNZ+hYXvZaVt+iYzCINhWY9l"
+"hToTtwEtzoLpgFYiWwNOwMUIlmBne66Ro"
+"2zBvrD/uuDpDmmP3mTRQSgWkh2IsW4ZxZ"
+"1ODDdQcE3ZJhHw3bz6tLKOSWjfGMyG0Vs"
+"aiBNodL7+G+emycCeY3p9QnrdcFooEX4L"
+"vOlHwm1nnRF0OiFH/SlwijHqU1zeU9l2A"
+"PzxDfCZqZ9Qi/QVCaiLacfs00m4VQK/GM"
+"ltaJUEc0tixWYuTiNy+TpSAujfhKwWITc"
+"tTDPIFzEacvxzZxQ8PWeJDOh3KtBoLtKc"
+"8Wg/qmIwW8LFEVoeQvb2GMStfUKfNUzfR"
+"Sg8NLW6o9fCs7AJ6t43zup4+7M2cIwhmt"
+"kyd1GOA5km3UKKJjOniK6bNZVvi47Vdo7"
+"9mMEPAbwiR3oyLen9FvT1C1RhQOYMrge/"
+"8GR2R8w/sCkYKU1XZb3geUEBv9lPsscYl"
+"dCQmhYIkSpaGkS5opC0JrtubGeeMEJVLV"
+"jFYJ3z5ryfWTAL5BYGXFYtyh29mOemfN0"
+"c3BBKzJk5gfQn2Ww6Q4ldfC5++irg1v/V"
+"9Lu5woxzhPEP/aTXKC7tuEE5v7oyM1aa1"
+"Q31NZoE0TZagManxkrxcHXwRxMhfwkuCI"
+"5//6pqbZm5Kfz1c2Fb+tQNWBy1r6XVG/p"
+"5uTwc2FIgX7u88EpMoL59u7zwWyvjZNmP"
+"wiRFjKNfsg99MXUQrEDY5J7rVSM01aAHU"
+"sznEJ7VR1mVott0/B8iUM8fw8biHmwXNTKP6myZ/XXlr22OksP9Kmsrtuw==";
+

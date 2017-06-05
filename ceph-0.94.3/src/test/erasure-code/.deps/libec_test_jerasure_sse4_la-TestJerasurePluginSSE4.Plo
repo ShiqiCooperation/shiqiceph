@@ -1,0 +1,7 @@
+test/erasure-code/libec_test_jerasure_sse4_la-TestJerasurePluginSSE4.lo: \
+ test/erasure-code/TestJerasurePluginSSE4.cc /usr/include/stdc-predef.h \
+ ceph_ver.h
+
+/usr/include/stdc-predef.h:
+
+ceph_ver.h:

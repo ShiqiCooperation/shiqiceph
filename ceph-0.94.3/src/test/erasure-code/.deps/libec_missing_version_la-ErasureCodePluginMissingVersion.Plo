@@ -1,0 +1,5 @@
+test/erasure-code/libec_missing_version_la-ErasureCodePluginMissingVersion.lo: \
+ test/erasure-code/ErasureCodePluginMissingVersion.cc \
+ /usr/include/stdc-predef.h
+
+/usr/include/stdc-predef.h:

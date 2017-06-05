@@ -1,0 +1,10 @@
+arch/probe.lo: arch/probe.cc /usr/include/stdc-predef.h arch/probe.h \
+ arch/intel.h arch/arm.h
+
+/usr/include/stdc-predef.h:
+
+arch/probe.h:
+
+arch/intel.h:
+
+arch/arm.h:
